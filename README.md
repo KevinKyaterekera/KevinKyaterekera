@@ -19,5 +19,5 @@ My goal is to create applications that help people develop personally and athlet
 👯 I’m looking to collaborate on health apps
 💬 Ask me about the meaning of life <br>
 
-
+![Visitor Count](https://profile-counter.glitch.me/{KevinKyaterekera}/count.svg) 
 
