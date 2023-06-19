@@ -1,19 +1,28 @@
 # Hello and welcome to my Journey "Becoming a Web-Developer 🧑🏽‍💻 📚"
 
-About me:
+<img src="https://github.com/KevinKyaterekera/KevinKyaterekera/assets/125157606/d61a0a84-f9fc-4112-bb07-6232749c9695" box-sizing="border-box" height="400" width="100%"> 
 
-- I am currently in a bootcamp to become a front-end software developer.
-- I live in Dortmund (GER) and enjoy endurance and outdoor sports. 
-- HTML, CSS, JavaScript, React.JS, Node.JS .. 
+Hello everyone 👋, <br>
+My name is Kevin Kyaterekera, based in Dortmund (GER)  and I am currently in a bootcamp to become a FrontEnd Developer at NeueFische GmbH. 
+<br> I am looking forward to meet new contacts 😎
 
-### A lot of content will be created here in the next few weeks.... 
+## TechStack:
+- HTML
+- CSS
+- JavaScript
+- Node.JS
+- Agile Methods
 
-[This is a awsome Link] (https://tenor.com/view/cat-computer-typing-fast-gif-5368357)
+With a strong personal interest in endurance sports and personal development, I'm excited to support the world of apps in these areas. 
 
-<div style="padding-top:70.833%;position:relative;"><iframe src="https://gifer.com/embed/39Cg" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
-| Hobbies           | Experience |
-| -------------     | ------------- |
-| Endurance Sports  | < 1 Year |
-| Downhill MTB      | > 3 Years  |
+## About Me:
+
+| TECH | HOBBIES | ABOUT ME |
+| :---         |     :---:      |          ---: |
+| HTML   | Endurance Sports    | Dortmund   |
+| CSS    | Downhill MTB    | 34 yrs     |
+| JavaScript    | Philosophy  |     |
+| React.JS    | Travel  |     |
+
 
