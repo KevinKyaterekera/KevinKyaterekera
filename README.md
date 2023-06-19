@@ -1,28 +1,23 @@
-# Hello and welcome to my Journey "Becoming a Web-Developer 🧑🏽‍💻 📚"
+# Welcome to my Journey "Becoming a Web-Developer 🧑🏽‍💻 📚"
 
-<img src="https://github.com/KevinKyaterekera/KevinKyaterekera/assets/125157606/d61a0a84-f9fc-4112-bb07-6232749c9695" box-sizing="border-box" height="400" width="100%"> 
+<img src="https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg" alt="Banner" width="100%" height="250">  
 
 Hello everyone 👋, <br>
-My name is Kevin Kyaterekera, based in Dortmund (GER)  and I am currently in a bootcamp to become a FrontEnd Developer at NeueFische GmbH. 
+I'm Kevin and this is my GitHub Acc.
+<br>
+I am in a BootCamp because I want to learn Web Development professionally!<br>
+<p> I love to create and design websites with HTML, CSS and JavaScript and have a great interest in challenging and solving exciting ideas.<br></p> 
+In my spare time I enjoy endurance sports, am interested in the ancient Romans and love the outdoors. <br>
+My goal is to create applications that help people develop personally and athletically. <br> 
 <br> I am looking forward to meet new contacts 😎
 
-## TechStack:
-- HTML
-- CSS
-- JavaScript
-- Node.JS
-- Agile Methods
+## 🧑🏽‍💻 About Me:
+🔘 34 yrs. 
+📍 Dortmund (GER ) <br>
+📚 I'm currently learning HTML, CSS, JavaScript, REact.JS, Agile Methods @neuefische <br>
+😀 In my free time I sit on my bike, run, or spend time in nature <br>
+👯 I’m looking to collaborate on health apps
+💬 Ask me about the meaning of life <br>
 
-With a strong personal interest in endurance sports and personal development, I'm excited to support the world of apps in these areas. 
-
-
-## About Me:
-
-| TECH | HOBBIES | ABOUT ME |
-| :---         |     :---:      |          ---: |
-| HTML   | Endurance Sports    | Dortmund   |
-| CSS    | Downhill MTB    | 34 yrs     |
-| JavaScript    | Philosophy  |     |
-| React.JS    | Travel  |     |
 
 
