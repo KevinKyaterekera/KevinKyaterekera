@@ -1,4 +1,4 @@
-# Welcome to my Journey "Becoming a Web-Developer 🧑🏽‍💻 📚"
+# My Journey "Becoming a Web-Developer 🧑🏽‍💻 📚"
 
 <img src="https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg" alt="Banner" width="100%" height="250">  
 
@@ -14,7 +14,7 @@ My goal is to create applications that help people develop personally and athlet
 ## 🧑🏽‍💻 About Me:
 🔘 34 yrs. 
 📍 Dortmund (GER ) <br>
-📚 I'm currently learning HTML, CSS, JavaScript, REact.JS, Agile Methods @neuefische <br>
+📚 I'm currently learning HTML, CSS, JavaScript, React, Agile Methods @neuefische <br>
 😀 In my free time I sit on my bike, run, or spend time in nature <br>
 👯 I’m looking to collaborate on health apps
 💬 Ask me about the meaning of life <br>
